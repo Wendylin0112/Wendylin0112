@@ -38,10 +38,11 @@ I developed the **2D U-Net** pipeline for CT-image segmentation and scan-level c
 | --- | --- |
 | [Power-Line Asset Defect Classification](https://github.com/Wendylin0112/DataMining-FinalProject) | **PyTorch · EfficientNet · Streamlit** — Image-based asset defect classification with a [live demo](https://datamining-finalproject-jwxzxr4njtsox4z9quebt7.streamlit.app/) |
 | [Shortest-Path Optimization](https://github.com/Wendylin0112/shortest-path-competition) | **C++17 · Dijkstra · ALT/A*** — Exact shortest-path query optimization; [benchmark report](https://github.com/Wendylin0112/shortest-path-competition/blob/main/optimization_report.md) |
+| [My CCU Academia — LLM-Powered Campus RPG](https://github.com/Eijiro1016/CCU_Academia) | **Python · Llama 3.2 · Ollama · Flask · Unity** — Team project; I worked on Dcard data collection, NPC data processing, and the LLM dialogue API integration; [play the game](https://play.unity.com/en/games/0b839150-5aed-4c84-affa-60d44727fdbf/ccuacademia) |
 | [Hand-Control Runner](https://github.com/Wendylin0112/Hand-Control-Runner) | **MATLAB · MediaPipe** — Real-time hand gesture controls for games; [video demo](https://youtu.be/FydK0xX9bpE) |
 | [Disaster Report System](https://github.com/Wendylin0112/Disaster-Report-System-GradioFolium) | **Python · Gradio · Folium** — Interactive disaster-reporting map prototype |
 
-I've also collaborated on an **LLM-powered NPC dialogue system** for a Unity campus game and a **Trustworthy AI assessment platform**. Their project code is not currently linked publicly.
+I've also collaborated on a **Trustworthy AI assessment platform**; its project code is not currently linked publicly.
 
 ## 🛠️ Tech Stack
 
