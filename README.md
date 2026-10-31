@@ -19,6 +19,8 @@ CSIE Undergraduate · National Chung Cheng University, Taiwan
 
 I'm a CSIE undergraduate with a background in mathematics. My focus is **computer vision and applied machine learning**, and I enjoy connecting experimental reasoning with working software. Beyond research, I've led an international software team and contributed to an early-stage disaster-preparedness app.
 
+I love **using technology to solve real-world problems** and learning from people with different backgrounds and perspectives. I'm especially excited about collaborating with people from around the world to turn ideas into meaningful solutions. **If you're interested in exchanging ideas, research, or building something together, feel free to [reach out](mailto:iddw1498@gmail.com)!**
+
 ## 🔬 Research
 
 **[360° Multi-Camera Person Re-ID & Tracking](./research/360-multicamera-reid.md)** · *Ongoing undergraduate research / industry collaboration*
