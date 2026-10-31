@@ -77,8 +77,6 @@ We're currently conducting **field validation and requirements interviews** to u
 - **MATLAB Student Ambassador (MathWorks):** Organized campus learning and outreach events. New to MATLAB or looking for student projects? Explore the community-curated **[Awesome MATLAB Students](https://github.com/mathworks/awesome-matlab-students)** repository.
 - **Vice Captain, CCU Competitive Programming Club:** Student activities, programming education and team coordination.
 - **Teaching Assistant, CCU:** Supported instruction and developed tools for assessment preparation.
-- **Industry internship, RockCore:** Experimented with image-to-multiview generation and supported vision-data preparation.
-- **FLOLAC 2025:** Participated in courses on formal languages, logic, verification and computation.
 
 ## 📄 Resume
 
