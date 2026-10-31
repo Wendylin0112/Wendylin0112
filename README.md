@@ -62,7 +62,7 @@ Our interdisciplinary team is exploring a more accessible, integrated experience
 
 We're currently conducting **field validation and requirements interviews** to understand actual community needs. If you are interested in the project, potential collaboration, or joining the team, we'd love to connect!
 
-**[Visit our website](https://knowzai-web.vercel.app/)** · **[Explore the team organization](https://github.com/long-tsai-iann)** · **[Project introduction](https://canva.link/loek75666s8nudx)** · **[Additional presentation](https://canva.link/ooynz1kazoxt55i)**
+**[Visit our website](https://knowzai-web.vercel.app/)** · **[Explore the team organization](https://github.com/long-tsai-iann)** · **[Team presentation](https://canva.link/z9eoxrgxywhuqrz)**
 
 **Team contact:** [longtsaiiann@gmail.com](mailto:longtsaiiann@gmail.com) — collaboration, partnership, project inquiries, or interest in joining the team.
 
