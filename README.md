@@ -11,7 +11,7 @@ CSIE Undergraduate · National Chung Cheng University, Taiwan
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wei-chen-lin-5487a135a/)
 [![Email](https://img.shields.io/badge/Email-Contact-64748b?logo=gmail&logoColor=white)](mailto:iddw1498@gmail.com)
 
-[Research](#-research) · [Projects](#-selected-projects) · [KNOWZAI](#-knowzai--disaster-preparedness-app) · [Resume](./RESUME.md) · [Contact](#-contact)
+[Research](#-research) · [Projects](#-selected-projects) · [KNOWZAI](#-knowzai--disaster-preparedness-app) · [CV](./WeiChenLin_Resume_en.pdf) · [Contact](#-contact)
 
 </div>
 
@@ -88,6 +88,8 @@ We're developing **攏災影 (KNOWZAI)** to bring disaster information, map-base
 
 ## 📄 Resume & Contact
 
-**[Online resume](./RESUME.md)** · [LinkedIn](https://www.linkedin.com/in/wei-chen-lin-5487a135a/) · [Email](mailto:iddw1498@gmail.com)
+**[Academic CV (English)](./WeiChenLin_Resume_en.pdf)** · **[履歷（繁體中文）](./WeiChenLin_Resume_zh.pdf)**
+
+[LinkedIn](https://www.linkedin.com/in/wei-chen-lin-5487a135a/) · [Email](mailto:iddw1498@gmail.com) · [GitHub](https://github.com/Wendylin0112)
 
 *Collaborative work is credited to its respective team; private research materials are not published here.*
