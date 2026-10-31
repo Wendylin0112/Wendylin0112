@@ -1,14 +1,14 @@
 <div align="center">
 
-# Wei-Chen Lin
-### Computer Vision · Trustworthy AI · Applied Machine Learning
+# Wei-Chen Lin 👋
+### Computer Vision · Applied AI · Software Engineering
 
-**Computer Science and Information Engineering undergraduate**  
-National Chung Cheng University · Taiwan
+**CSIE Undergraduate | National Chung Cheng University, Taiwan**  
+Research-minded developer · Building AI systems for real-world problems
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Wendylin0112&label=Profile%20views&color=64748b&style=flat)](https://github.com/antonkomarev/github-profile-views-counter)
 
-[Research](#-research-interests) · [Projects](#-selected-projects) · [Experience](#-experience--recognition) · [Resume](./RESUME.md) · [Contact](#-connect)
+[Research](#-research) · [Projects](#-selected-projects) · [Community](#-community--leadership) · [Resume](#-resume) · [Contact](#-connect)
 
 </div>
 
@@ -16,84 +16,96 @@ National Chung Cheng University · Taiwan
 
 ## 👋 About Me
 
-I'm a CSIE undergraduate at **National Chung Cheng University (CCU), Taiwan**, with an academic background in mathematics. I am interested in connecting **mathematical reasoning, computer vision, and real-world AI systems**.
+I'm an undergraduate student in **Computer Science and Information Engineering at National Chung Cheng University**, having transferred from Mathematics to CSIE. I enjoy turning ideas into usable systems and examining why AI methods succeed—or fail—under real-world constraints.
 
-My work spans multi-camera person tracking, medical image analysis, AI evaluation, and practical software engineering. I enjoy building complete pipelines—from problem formulation and experiments to systems that people can use—and understanding *why* a method works or fails.
+My current work bridges **computer vision research, AI application development, and cross-disciplinary collaboration**. I also enjoy the mathematical side of computing, especially discrete mathematics, graph algorithms, and formal logic, which I explore primarily through coursework and independent learning rather than claiming them as established research areas.
 
-> **Current focus:** Robust person re-identification (ReID), identity association across 360° panoramic cameras, and reliable evaluation of AI systems.
+## 🔬 Research
 
-## 🔬 Research Interests
+### 360° Multi-Camera Person Re-Identification & Tracking | Ongoing
 
-- **Computer Vision & Multi-Object Tracking:** person ReID, panoramic imagery, identity consistency, detection and tracking evaluation.
-- **Machine Learning & Medical Imaging:** segmentation, data quality, experimental design and model robustness.
-- **Trustworthy AI:** evaluation methodology, explainability, privacy and security.
-- **Algorithms & Mathematical Foundations:** graph algorithms, optimization and formal reasoning.
+**NSTC undergraduate research project · RockCore industry collaboration · Advisor: Prof. Wei-Yang Lin**
 
-### 360° Multi-Camera Person Tracking & Re-ID · Ongoing
+Developing and evaluating a multi-camera person-tracking pipeline for smart-manufacturing environments, with a focus on **identity consistency across panoramic cameras**.
 
-Collaborative research on tracking people across multiple panoramic cameras in smart-manufacturing environments.
+- Integrated and studied person-detection/tracking, ReID feature extraction, and cross-camera global-ID association.
+- Compared **OSNet, TransReID, and CLIP-ReID** and examined how dataset quality can affect evaluation.
+- Prepared ground-truth annotations for **HOTA** evaluation; explored face/body feature fusion and one-to-one identity association.
 
-- Investigating appearance variations, panoramic distortion and cross-camera identity association.
-- Experimenting with tracking and ReID baselines, global-ID consistency and evaluation using **HOTA**.
-- Studying how data quality and geometric/temporal constraints affect association reliability.
+**Repository:** [360MultiCam-ReID](https://github.com/cts0424/360MultiCam-ReID) *(private collaborative repository; accessible only to authorized members)*.
 
-*Work in progress; experimental code and unpublished results are not publicly available.*
+### Acute Appendicitis Analysis with U-Net | Medical Imaging
 
-### [Acute Appendicitis Analysis with U-Net](https://github.com/Wendylin0112/AOCR2024-AI-Challenge)
+**Graduate-level course project · MATLAB · CT segmentation and scan-level classification**
 
-**MATLAB · Medical Image Analysis · 2D U-Net · Dice Loss**
+This was a **team project with two independently implemented approaches**:
 
-Developed a CT-image segmentation and scan-level classification pipeline, including preprocessing, augmentation, model/loss design and post-processing.
+- **My contribution — [2D U-Net](https://github.com/Wendylin0112/AOCR2024-AI-Challenge):** Developed a segmentation-to-classification workflow, including normalization, augmentation, custom Dice-loss design, and probability/area-threshold post-processing.
+- **Collaborator's contribution — [nnU-Net](https://github.com/zihyuhe/nnU-Net-med-img):** Independently implemented and maintained in a separate repository by my senior teammate.
 
-- **Scan-level F1: 0.833** on a course-provided 20-patient evaluation set (not an external clinical benchmark).
-- Investigated metric/prediction discrepancies and evaluation limitations.
-- Team project received an **honorable mention** at CCU's College of Science Poster Competition.
+In a course-provided **20-patient evaluation**, the 2D U-Net branch achieved **scan-level F1 = 0.833**, while the independently implemented nnU-Net branch achieved approximately **0.667**. These are limited course-project results, **not clinical benchmarks**. Our team received an **Honorable Mention at the CCU College of Science Poster Competition**.
 
-[Explore code, report and poster](https://github.com/Wendylin0112/AOCR2024-AI-Challenge)
+### Earlier Medical Image Analysis: Kidney Microvascular Segmentation
+
+**Individual course assignment · MATLAB · 2D U-Net**
+
+An earlier, separate project based on HuBMAP's kidney histology microvascular segmentation challenge. I built a pipeline for converting polygon annotations to masks, augmenting PAS-stained histology images, training a U-Net, and visualizing vessel predictions.
+
+[Read the technical case study and learning notes](./projects/kidney-microvascular-segmentation.md).
 
 ## 🚀 Selected Projects
 
-| Project | Technologies | Highlights |
+| Project | My role and contributions | Links |
 | --- | --- | --- |
-| [Trustworthy AI Assessment System](https://github.com/TAI-trustworthy-ai-lab/Trustworthy-AI-Assessment-System-Design) | Next.js, TypeScript, Node.js, PostgreSQL, LLMs | Eight-person collaboration; project coordination, evaluation content, AI-assisted reports, PDF testing and deployment support. [Backend](https://github.com/TAI-trustworthy-ai-lab/backend) |
-| [Power-Line Asset Defect Classification](https://github.com/Wendylin0112/DataMining-FinalProject) | PyTorch, EfficientNet, Streamlit | Image classification prototype and [interactive demo](https://datamining-finalproject-jwxzxr4njtsox4z9quebt7.streamlit.app/) |
-| [Shortest-Path Optimization](https://github.com/Wendylin0112/shortest-path-competition) | C++17, Dijkstra, ALT/A* | Exact shortest-path query optimization and [benchmark analysis](https://github.com/Wendylin0112/shortest-path-competition/blob/main/optimization_report.md) |
-| [My CCU Academia — Campus RPG](https://github.com/Eijiro1016/CCU_Academia) | Python, Llama 3.2, Ollama, Flask, Unity | Team project: Dcard data collection, NPC data processing and LLM dialogue API integration. [Play](https://play.unity.com/en/games/0b839150-5aed-4c84-affa-60d44727fdbf/ccuacademia) |
-| [Hand-Control Runner](https://github.com/Wendylin0112/Hand-Control-Runner) | MATLAB, MediaPipe | Real-time gesture-controlled game; [demo video](https://youtu.be/FydK0xX9bpE) |
-| [Disaster Report System](https://github.com/Wendylin0112/Disaster-Report-System-GradioFolium) | Python, Gradio, Folium | Interactive disaster-reporting map prototype |
+| **KNOWZAI (攏災影) — Disaster Preparedness App** | Technical development member in an early-stage student startup team. Building an integrated disaster-information and response app; **MVP completed**, now working on field validation and requirements discovery. | [Website](https://knowzai-web.vercel.app/) · [Team GitHub](https://github.com/long-tsai-iann) |
+| **Trustworthy AI Assessment System** | **Project leader in an eight-member international team.** Led requirement clarification with stakeholders, work allocation, scheduling, cross-team coordination, progress presentations and feedback alignment; also contributed to questionnaires, LLM-assisted evaluation reports, PDF testing and deployment integration. | [Project](https://github.com/TAI-trustworthy-ai-lab/Trustworthy-AI-Assessment-System-Design) · [Backend](https://github.com/TAI-trustworthy-ai-lab/backend) |
+| **My CCU Academia — LLM-Powered Campus RPG** | Proposed the LLM-powered NPC idea; worked on web data collection, character/personality data processing, dialogue API and Unity integration in a three-person team. | [Code](https://github.com/Eijiro1016/CCU_Academia) · [Play](https://play.unity.com/en/games/0b839150-5aed-4c84-affa-60d44727fdbf/ccuacademia) |
+| **Power-Line Asset Defect Classification** | Image-based defect classification prototype using PyTorch, EfficientNet and Streamlit. | [Code](https://github.com/Wendylin0112/DataMining-FinalProject) · [Demo](https://datamining-finalproject-jwxzxr4njtsox4z9quebt7.streamlit.app/) |
+| **Shortest-Path Optimization** | Exact shortest-path query optimization and benchmark experiments using C++17, Dijkstra and ALT/A*. | [Code](https://github.com/Wendylin0112/shortest-path-competition) · [Report](https://github.com/Wendylin0112/shortest-path-competition/blob/main/optimization_report.md) |
+| **Hand-Control Runner** | Real-time gesture control using MATLAB and MediaPipe. | [Code](https://github.com/Wendylin0112/Hand-Control-Runner) · [Video](https://youtu.be/FydK0xX9bpE) |
 
-## 🛠️ Skills
+### 🌏 KNOWZAI — Building Technology for Disaster Resilience
 
-| Area | Tools and technologies |
-| --- | --- |
-| Programming | Python · C/C++ · MATLAB · Java · R · C# |
-| ML & Data | PyTorch · scikit-learn · NumPy · Pandas |
-| Web & Backend | Next.js · React · Node.js · Express · Flask |
-| Databases & DevOps | PostgreSQL · Prisma · Docker · Git · Linux |
-| Prototyping | Streamlit · Gradio |
+Our interdisciplinary team is exploring a more accessible, integrated experience for disaster preparedness and emergency response. The MVP brings together disaster information, map-based reporting and location-related functionality, with AI-assisted guidance as part of the broader product direction.
 
-## 🏅 Experience & Recognition
+We're currently conducting **field validation and requirements interviews** to understand actual community needs. If you are interested in the project, potential collaboration, or joining the team, we'd love to connect!
 
-- **Industry and research collaboration:** AI and computer-vision research with an industry partner.
-- **MATLAB Student Ambassador:** University community outreach and hands-on technical events.
-- **Competitive programming:** CCU programming contest awards and CPE practice.
-- **Medical AI research:** Honorable mention, CCU College of Science Poster Competition.
-- **Interdisciplinary study:** Participated in FLOLAC 2025 (formal languages, logic and computation).
+**[Visit our website](https://knowzai-web.vercel.app/)** · **[Explore the team organization](https://github.com/long-tsai-iann)** · **[Project introduction](https://canva.link/loek75666s8nudx)** · **[Additional presentation](https://canva.link/ooynz1kazoxt55i)**
 
-For additional information, see my **[online resume](./RESUME.md)**. Detailed certificates and supporting documents can be supplied upon request.
+*For collaboration inquiries, please use the team's published contact channels on its website or reach out to me using the contact details below. No unverified team email address is listed here.*
+
+## 🛠️ Technical Toolkit
+
+**Programming:** Python · C/C++ · MATLAB · Java · C# · R  
+**Machine Learning & CV:** PyTorch · scikit-learn · NumPy · Pandas · Detection/Tracking · ReID · Medical Image Segmentation  
+**Software & Tools:** Git/GitHub · Linux · Docker · Flask · Next.js/React · Node.js/Express · PostgreSQL
+
+## 🤝 Community & Leadership
+
+- **MATLAB Student Ambassador (MathWorks):** Organized campus learning and outreach events. New to MATLAB or looking for student projects? Explore the community-curated **[Awesome MATLAB Students](https://github.com/mathworks/awesome-matlab-students)** repository.
+- **Vice Captain, CCU Competitive Programming Club:** Student activities, programming education and team coordination.
+- **Teaching Assistant, CCU:** Supported instruction and developed tools for assessment preparation.
+- **Industry internship, RockCore:** Experimented with image-to-multiview generation and supported vision-data preparation.
+- **FLOLAC 2025:** Participated in courses on formal languages, logic, verification and computation.
+
+## 📄 Resume
+
+- **[English online resume](./RESUME.md)** — quick, web-readable overview.
+- **English & Chinese PDF CVs:** prepared separately; PDF repository links will be added after the document files are uploaded and reviewed for public release.
 
 ## 📊 GitHub Activity
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Wendylin0112&show_icons=true&hide_border=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
-<sub>Statistics depend on third-party services and may sometimes be unavailable. The profile-view count represents counter requests, not verified unique visitors.</sub>
+<sub>Third-party activity widgets may be temporarily unavailable. Profile views are counter requests, not verified unique visitors.</sub>
 
 ## 📫 Connect
 
-- **Email:** [iddw1498@gmail.com](mailto:iddw1498@gmail.com)
-- **GitHub:** [github.com/Wendylin0112](https://github.com/Wendylin0112)
-- **Resume:** [View my resume](./RESUME.md)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wei--Chen%20Lin-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wei-chen-lin-5487a135a/)
+[![Email](https://img.shields.io/badge/Email-Contact-64748b?logo=gmail&logoColor=white)](mailto:iddw1498@gmail.com)
+
+**GitHub:** [Wendylin0112](https://github.com/Wendylin0112) · **LinkedIn:** [Wei-Chen Lin](https://www.linkedin.com/in/wei-chen-lin-5487a135a/)
 
 ---
 
-<div align="center"><sub>Interested in computer vision, trustworthy AI, and research-driven engineering.</sub></div>
+<div align="center"><sub>Interested in thoughtful research, practical engineering, and technology with real-world impact.</sub></div>
