@@ -45,26 +45,18 @@ This was a **team project with two independently implemented approaches**:
 
 In a course-provided **20-patient evaluation**, the 2D U-Net branch achieved **scan-level F1 = 0.833**, while the independently implemented nnU-Net branch achieved approximately **0.667**. These are limited course-project results, **not clinical benchmarks**. Our team received an **Honorable Mention at the CCU College of Science Poster Competition**.
 
-### Earlier Medical Image Analysis: Kidney Microvascular Segmentation
-
-**Individual course assignment · MATLAB · 2D U-Net**
-
-An earlier, separate project based on HuBMAP's kidney histology microvascular segmentation challenge. I built a pipeline for converting polygon annotations to masks, augmenting PAS-stained histology images, training a U-Net, and visualizing vessel predictions.
-
-[Read the technical case study and learning notes](./projects/kidney-microvascular-segmentation.md).
-
 ## 🚀 Selected Projects
 
 | Project | My role and contributions | Links |
 | --- | --- | --- |
-| **KNOWZAI (攏災影) — Disaster Preparedness App** | Technical development member in an early-stage student startup team. Building an integrated disaster-information and response app; **MVP completed**, now working on field validation and requirements discovery. | [Website](https://knowzai-web.vercel.app/) · [Team GitHub](https://github.com/long-tsai-iann) |
+| **Kidney Microvascular Segmentation (HW1)** | Individual MATLAB medical imaging assignment: converted polygon annotations to masks, applied data augmentation, trained a 2D U-Net with Dice-based loss, and examined class imbalance and segmentation results. | [Technical case study](./projects/kidney-microvascular-segmentation.md) |
 | **Trustworthy AI Assessment System** | **Project leader in an eight-member international team.** Led requirement clarification with stakeholders, work allocation, scheduling, cross-team coordination, progress presentations and feedback alignment; also contributed to questionnaires, LLM-assisted evaluation reports, PDF testing and deployment integration. | [Project](https://github.com/TAI-trustworthy-ai-lab/Trustworthy-AI-Assessment-System-Design) · [Backend](https://github.com/TAI-trustworthy-ai-lab/backend) |
 | **My CCU Academia — LLM-Powered Campus RPG** | Proposed the LLM-powered NPC idea; worked on web data collection, character/personality data processing, dialogue API and Unity integration in a three-person team. | [Code](https://github.com/Eijiro1016/CCU_Academia) · [Play](https://play.unity.com/en/games/0b839150-5aed-4c84-affa-60d44727fdbf/ccuacademia) |
 | **Power-Line Asset Defect Classification** | Image-based defect classification prototype using PyTorch, EfficientNet and Streamlit. | [Code](https://github.com/Wendylin0112/DataMining-FinalProject) · [Demo](https://datamining-finalproject-jwxzxr4njtsox4z9quebt7.streamlit.app/) |
 | **Shortest-Path Optimization** | Exact shortest-path query optimization and benchmark experiments using C++17, Dijkstra and ALT/A*. | [Code](https://github.com/Wendylin0112/shortest-path-competition) · [Report](https://github.com/Wendylin0112/shortest-path-competition/blob/main/optimization_report.md) |
 | **Hand-Control Runner** | Real-time gesture control using MATLAB and MediaPipe. | [Code](https://github.com/Wendylin0112/Hand-Control-Runner) · [Video](https://youtu.be/FydK0xX9bpE) |
 
-### 🌏 KNOWZAI — Building Technology for Disaster Resilience
+## 🌏 KNOWZAI — Building Technology for Disaster Resilience
 
 Our interdisciplinary team is exploring a more accessible, integrated experience for disaster preparedness and emergency response. The MVP brings together disaster information, map-based reporting and location-related functionality, with AI-assisted guidance as part of the broader product direction.
 
@@ -72,7 +64,7 @@ We're currently conducting **field validation and requirements interviews** to u
 
 **[Visit our website](https://knowzai-web.vercel.app/)** · **[Explore the team organization](https://github.com/long-tsai-iann)** · **[Project introduction](https://canva.link/loek75666s8nudx)** · **[Additional presentation](https://canva.link/ooynz1kazoxt55i)**
 
-*For collaboration inquiries, please use the team's published contact channels on its website or reach out to me using the contact details below. No unverified team email address is listed here.*
+**Team contact:** [longtsaiiann@gmail.com](mailto:longtsaiiann@gmail.com) — collaboration, partnership, project inquiries, or interest in joining the team.
 
 ## 🛠️ Technical Toolkit
 
