@@ -42,7 +42,6 @@ Led an **eight-member international team**, coordinating stakeholder requirement
 
 [Source & documentation](https://github.com/TAI-trustworthy-ai-lab/Trustworthy-AI-Assessment-System-Design) · [Backend](https://github.com/TAI-trustworthy-ai-lab/backend) · **[Video demo](https://www.youtube.com/watch?v=jxtBbBmE0rw)** · [Presentation](https://github.com/TAI-trustworthy-ai-lab/Trustworthy-AI-Assessment-System-Design/blob/main/docs/FinalProjectPresentation.pdf)
 
-[![TAI platform demo thumbnail](https://img.youtube.com/vi/jxtBbBmE0rw/mqdefault.jpg)](https://www.youtube.com/watch?v=jxtBbBmE0rw)
 
 ### My CCU Academia — LLM-Powered Campus RPG
 **Python · Ollama / Llama 3.2 · Flask · Unity**
