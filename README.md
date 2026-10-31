@@ -64,7 +64,7 @@ Built a **two-stage equipment recognition and defect-classification workflow**, 
 
 Built a PAS-stained kidney histology vessel-segmentation pipeline with polygon masks, augmentation and Dice-based training; documented limitations around class imbalance and evaluation.
 
-[Technical case study](./projects/kidney-microvascular-segmentation.md)
+**[Project repository & README](https://github.com/Wendylin0112/Kidney-Microvascular-Segmentation)**
 
 **More projects:** [Shortest-Path Optimization](https://github.com/Wendylin0112/shortest-path-competition) ([benchmarks](https://github.com/Wendylin0112/shortest-path-competition/blob/main/optimization_report.md)) · [Hand-Control Runner](https://github.com/Wendylin0112/Hand-Control-Runner) ([video](https://youtu.be/FydK0xX9bpE))
 
